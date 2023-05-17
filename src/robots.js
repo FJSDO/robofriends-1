@@ -58,5 +58,12 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Fernando Oliveira',
+    username: 'FSO',
+    email: 'fjso@hotmail.com'
   }
+  
 ];
